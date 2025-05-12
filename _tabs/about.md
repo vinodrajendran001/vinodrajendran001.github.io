@@ -18,11 +18,11 @@ Currently, I work as a Generative AI Expert at **Continental Automotive** in Sin
 
 **Technische Universität München** \
 📍 Munich, Germany \
-*Master of Science in Informatics*
+*Master of Science (M.Sc.) in Informatics*
 
 **Anna University - Meenakshi Sundararajan Engineering College** \
 📍 Chennai, India \
-*Bachelor of Technology in Information Technology*
+*Bachelor of Technology (B.Tech.) in Information Technology*
 
 ---
 
