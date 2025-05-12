@@ -7,11 +7,11 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-I'm passionate about building impactful products that leverage cutting-edge technology. I hold an M.Sc. in Computer Science from **Technische Universität München (TUM)**, Germany, with a focus on Artificial Intelligence.
+I'm passionate about building impactful products that leverage cutting-edge technology. I hold an **M.Sc. in Computer Science** from **Technische Universität München (TUM)**, Germany, with a focus on Artificial Intelligence.
 
 My expertise spans **deep learning**, **generative models**, **computer vision**, and **natural language processing (NLP)**.
 
-Currently, I work as a Generative AI Expert at **Continental Automotive** in Singapore, where I explore exciting areas such as neural rendering, personalization, conversational AI, and multimodal understanding and generation — all tailored for next-generation automotive applications.
+Currently, I work as a **Generative AI Expert** at **Continental Automotive** in Singapore, where I explore exciting areas such as **neural rendering**, **personalization**, **conversational AI**, and **multimodal understanding and generation** — all tailored for next-generation automotive applications.
 
 
 ## 📚 Education
