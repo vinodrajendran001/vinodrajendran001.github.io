@@ -54,14 +54,14 @@ Currently, I work as a **Generative AI Expert** at **Continental Automotive** in
 **Data Analyst – Working Student**
 
 * <i class="fa-solid fa-binoculars"></i> **Focus Areas**: Statistical data analysis, Data mining
-* 💼 **Application Areas**: Treaty reinsurance analytics, Business intelligence and expert decision support
+* <i class="fa-solid fa-coins"></i> **Application Areas**: Treaty reinsurance analytics, Business intelligence and expert decision support
 
 ### **Tata Consultancy Services Limited**
 📍 Chennai, India \
 **Programmer Analyst – Assistant System Engineer**
 
 * <i class="fa-solid fa-binoculars"></i> **Focus Areas**: Software development, Report automation
-* 💳 **Application Areas**: Features for corporate actions systems, Automated report generation tool for billing system
+* <i class="fa-solid fa-money-bill-trend-up"></i> **Application Areas**: Features for corporate actions systems, Automated report generation tool for billing system
 
 
 ---
