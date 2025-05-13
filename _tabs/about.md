@@ -32,42 +32,36 @@ Currently, I work as a **Generative AI Expert** at **Continental Automotive** in
 📍 Singapore \
 **Generative AI Expert – Senior AI Specialist**
 
-* Designed and developed a large-scale scene reconstruction feature for a surround view monitoring system using diffusion models and NeRFs, significantly improving parking safety and user experience.
-* Led a 4-member team to develop a sub-symbolic based conversational AI system using large language models (LLMs), enhancing the in-car voice assistant to enable a more human-like interaction.
-* Spearheaded the development of a diffusion-based generative model for tire tread design, saving 2 months in the tire design lifecycle.
-* Developed a personalized adaptive UI solution for infotainment systems, employing multi-modal understanding and generative AI models to interpret user states and generate tailored content, elevating the overall user experience.
+* 🔬**Research Areas**: Transformers, Diffusion Models,  Neural Radiance Fields (NeRFs), Multimodal Understanding & Generation, Retrieval Augmented Generation (RAG)
+* 🚗 **Application Areas**: Scene reconstruction for surround view monitoring, Conversational AI for in-car voice assistants, Tire tread generative design automation, Personalized adaptive UI for infotainment systems
 
 ### **Siemens Mobility**
 📍 Singapore \
 **Applied Scientist – Senior Data Scientist**
 
-* Designed and developed a Transformers-based text classification model for a diagnostics system, reducing maintenance time per train by 30%.
-* Developed a deep demand forecast model to accurately predict spare parts availability for train components, reducing inventory cost by 20% per year.
+* 🔬**Research Areas**: Transformers, NLP
+* <i class="fa-solid fa-train"></i> **Application Areas**: Predictive diagnostics for trains
 
 ### **Rolls-Royce**
 📍 Singapore \
 **Senior Machine Learning Research Engineer – Advanced Technologist**
 
-* Developed a physics-guided neural network model to predict the closure gap for new engine designs, reducing calibration time of thermal-mechanical simulation from 2 weeks to 2 hours per design.
-* Utilized generative adversarial networks (GANs) to automatically identify defects in fan blade DICOM images, saving 10% cost and 50% time in the overall process.
-* Designed and developed a convolutional neural network (CNN) model to classify corrosion levels in turbine blade images, reducing process duration from 1 week to 1 day per batch.
-* Automated character recognition in turbine blade images using the single shot multibox detector (SSD) algorithm, increasing productivity from 1 batch to 8 batches per day.
-* Led a 4-member team to develop a descriptive analytics platform for identifying potential causes of engine failures, enhancing diagnostic capabilities.
-* Developed a recurrent neural network (RNN) model to identify vortex regions in unsteady CFD simulation data, reducing vortex detection time from 1 hour to 1 minute per frame.
+* 🔬**Research Areas**: Generative Adversarial Networks (GANs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Physics-Informed Neural Networks (PINNs)
+* ✈️ **Application Areas**: Closure gap prediction in jet engines, Fan blade defect detection in DICOM imagery, Corrosion level classification in turbine blades, Automated turbine blade character recognition, Vortex detection in CFD simulation data 
 
 ### **Allianz SE**
 📍 Munich, Germany \
 **Data Analyst – Working Student**
 
-* Developed a pipeline using SAS to analyze and interpret trends in treaty reinsurance data, enabling reinsurance experts to make decisions quickly.
-* Developed ad hoc queries using SAS to address immediate data analysis needs of the reinsurance business.
+* <i class="fa-solid fa-binoculars"></i> **Focus Areas**: Statistical data analysis, Data mining
+* 💼 **Application Areas**: Treaty reinsurance analytics, Business intelligence and expert decision support
 
 ### **Tata Consultancy Services Limited**
 📍 Chennai, India \
 **Programmer Analyst – Assistant System Engineer**
 
-* Developed new functionalities for corporate actions and billing solutions in TCS Bancs product, enhancing system capabilities.
-* Developed and integrated a reporting system in TCS Bancs product, providing detailed insights for users.
+* <i class="fa-solid fa-binoculars"></i> **Focus Areas**: Software development, Report automation
+* 💳 **Application Areas**: Features for corporate actions systems, Automated report generation tool for billing system
 
 
 ---
