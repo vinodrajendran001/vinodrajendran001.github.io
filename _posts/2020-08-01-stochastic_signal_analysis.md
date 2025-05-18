@@ -102,5 +102,5 @@ The complete code used in this post can be found in my [Github repo](https://git
 
 ## References
 
-1. [http://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques](http://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques)
+1. [https://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques](https://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques)
 2. [https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
