@@ -89,4 +89,4 @@ The complete code used in this post can be found in my [Github repo](https://git
 
 ## References
 
-1. [http://peterbloem.nl/blog/transformers](http://peterbloem.nl/blog/transformers)
+1. [https://peterbloem.nl/blog/transformers](https://peterbloem.nl/blog/transformers)
