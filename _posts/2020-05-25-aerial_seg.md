@@ -21,9 +21,9 @@ The sequence of tasks are arranged in following manner
 
 Aerial imagery dataset is collected from Google Maps and labels are obtained from Open Street Maps (OSM). The labels include road, building and background.
 
-|                               Satellite Image                               |                                    Label                                     |                                    Overlay                                    |
-| :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img width="150" height="150" src="assets/img/aerial_seg/tokyo1_image.png"> | <img width="150" height="150" src="assets/img/aerial_seg/tokyo1_labels.png"> | <img width="150" height="150" src="assets/img/aerial_seg/tokyo1_overlap.png"> |
+|                               Satellite Image                               |                                     Label                                     |                                     Overlay                                     |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| ![tokyo1_image](/assets/img/aerial_seg/tokyo1_image.png){: w="150" h="150"} | ![tokyo1_labels](/assets/img/aerial_seg/tokyo1_labels.png){: w="150" h="150"} | ![tokyo1_overlap](/assets/img/aerial_seg/tokyo1_overlap.png){: w="180" h="180"} |
 
 The available cities in CITY-OSM dataset are Berlin, Chicago, Paris, Potsdam, Tokyo and Zurich. I have automated the process to download the dataset and extract labels from the user defined cities. While processing the dataset, I split every single image into 4x4 grid and reisze into 300x300 pixels. For each image, the labels are categorized as 0: building red, 1 road blue, 2 BG white. The additional noisy pixels are assigned to 2 BG white. Finally, based on the processed images the train and test set are prepared.
 
@@ -86,11 +86,9 @@ Frequency weighted IoU on test set = 0.6413
 Pixel accuracy on test set = 0.7691
 
 
-|                               Satellite Image                               |                                    Label                                     |                                     Predicted                                      |
-| :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| <img width="150" height="150" src="assets/img/aerial_seg/tokyo1_image.png"> | <img width="150" height="150" src="assets/img/aerial_seg/tokyo1_labels.png"> | <img width="150" height="150" src="assets/img/aerial_seg/predict_tokyo1_mask.png"> |
-
-
+|                               Satellite Image                               |                                     Label                                     |                                     Predicted                                     |
+| :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![tokyo1_image](/assets/img/aerial_seg/tokyo1_image.png){: w="150" h="150"} | ![tokyo1_labels](/assets/img/aerial_seg/tokyo1_labels.png){: w="150" h="150"} | ![tokyo1_mask](/assets/img/aerial_seg/predict_tokyo1_mask.png){: w="150" h="150"} |
 
 Although the pixel-wise accuracy looks reasonable, IoU for each class can be increased further.
 

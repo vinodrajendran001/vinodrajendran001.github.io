@@ -65,11 +65,11 @@ After transforming a signal to the frequency-domain, I can extract features from
 
 I calculated the FFT, PSD and the auto-correlation of each signal and use the x and y coordinates of the peaks as input for the classifier. In addtion, I calculated wavelet features separately and used those features for the classifier.
 
-<img width="500" height="350" src="assets/img/stochastic_signal_analysis/features_comparison.png">
+![features comparison](/assets/img/stochastic_signal_analysis/features_comparison.png){: w="500" h="350" }
 
 ### Classification with Traditional Machine Learning Classifier
 
-<img width="300" height="200" src="assets/img/stochastic_signal_analysis/ml_summary.PNG">
+![ml summary](/assets/img/stochastic_signal_analysis/ml_summary.PNG){: w="300" h="200" }
 
 The accuracy of the training set is about 100% and the accuracy on the test set is about 95%. 
 
@@ -90,7 +90,7 @@ RNN and LSTM are recommended to recognize short activities that have natural ord
 
 I am using LSTM in this blog post. The LSTM learns to map each window of sensor data to an activity, where the observations in the input sequence are read one at a time, where each time step may be comprised of one or more variables. 
 
-<img width="400" height="400" src="assets/img/stochastic_signal_analysis/LSTMconfusionmatrix.png">
+![LSTM CM](/assets/img/stochastic_signal_analysis/LSTMconfusionmatrix.png){: w="400" h="400" }
 
 Outstandingly, the final accuracy is of 91%! And it can peak to values such as 93%, at some moments of luck during the training, depending on how the neural network's weights got initialized at the start of the training, randomly. 
 

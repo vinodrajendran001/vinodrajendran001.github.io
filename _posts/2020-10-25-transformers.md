@@ -42,8 +42,7 @@ The heart of the architecture used for both that the tasks will simply be a larg
 
 The input is represented using word embedding and position embedding to have at least some sensitivity to word order. Six block of transformers are used. At depth 6, with a maximum sequence length of 512 is fixed. The output sequence is averaged to produce a single vector representing the whole sequence. This vector is projected down to a vector with one element per class and softmaxed to produce probabilities.
 
-<center><img width="600" height="300" src="assets/img/transformers/transformer_classifier.png"></center>
-<center>Fig 1. Sequence classifier transformer [1]</center>
+![classifier transformer](/assets/img/transformers/transformer_classifier.png){: w="600" h="300"} *Sequence classifier transformer [1]*
 
 Due to resource constraints, this transformer achieves an accuracy of about 50% with 10 epochs. To see the real near-human performance of transformers, we’d need to increase the number of epochs and train a much deeper model on much more data. 
 
@@ -51,8 +50,7 @@ Due to resource constraints, this transformer achieves an accuracy of about 50% 
 
 The trick used here is autoregressive model. The training regime is simple (and has been around for far longer than transformers have). A sequence is given as a input to sequence-to-sequence model which predicts the next character at each point in the sequence. In other words, the target output is the same sequence shifted one character to the left. Typically, the same thing can be achieved using RNN but they cannot look forward into the input sequence: output i depends only on inputs 0 to i. With a transformer, the output depends on the entire input sequence, so prediction of the next character becomes vacuously easy, just retrieve it from the input. To use self-attention as an autoregressive model, we’ll need to ensure that it cannot look forward into the sequence. This is realized by applying a mask to the matrix of dot products, before the softmax is applied. This mask disables all elements above the diagonal of the matrix. 
 
-<center><img width="600" height="300" src="assets/img/transformers/transformer_generator.png"></center>
-<center>Fig 2. Text generation transformer [1]</center>
+![text generation transformer](/assets/img/transformers/transformer_generator.png){: w="600" h="300"} *Text generation transformer [1]*
 
 The model trains on sequences of length 256, using 12 transformer blocks and 256 embedding dimension. The model generate output from a 256-character seed: for each character, the preceding 256 characters is feed as input to predict the next character (the last output vector). We sample from that with a temperature of 0.5, and move to the next character. At this point, the model achieves a compression of 1.9722 bits per byte on the validation set with 10 epochs. The compression can be brought further down with more number of epochs.
 
