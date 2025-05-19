@@ -58,8 +58,7 @@ Afterwards, I performed a 20-way one shot learning evaluation for 200 sets. Wher
 | ![oneshot main](/assets/img/siamese_NN_one_shot_learning/oneshot_m.png) | ![oneshot m](/assets/img/siamese_NN_one_shot_learning/oneshot_m.png) | ![oneshot i2](/assets/img/siamese_NN_one_shot_learning/oneshot_i2.png) | ![oneshot i3](/assets/img/siamese_NN_one_shot_learning/oneshot_i3.png) |
 
 #### Output
-<center><img width="350" height="200" src="assets/img/siamese_NN_one_shot_learning/siamese_bestcase.png"></center>
-<center>Fig. 6: Best match when the image set contains an image similar to main image</center>
+![siamese bestcase](/assets/img/siamese_NN_one_shot_learning/siamese_bestcase.png){: w="350" h="200" } *Best match when the image set contains an image similar to main image*
 
 #### Case 2
 
