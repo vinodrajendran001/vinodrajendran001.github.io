@@ -191,6 +191,7 @@ defaults:
       type: tabs # see `site.collections`
     values:
       layout: page
+      toc: true # Display TOC column in pages.
       permalink: /:title/
 
 sass:
