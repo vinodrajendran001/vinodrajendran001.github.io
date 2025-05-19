@@ -681,7 +681,7 @@ These 7 GitHub repos are the ones I always recommend:
 
 # 07.05.2025
 
-- [Scaling Long Context and RAG: Insights from Google DeepMind]([Google AI: Release Notes podcast episode on long context](https://blog.google/technology/google-deepmind/release-notes-podcast-long-context))
+- Scaling Long Context and RAG: Insights from Google DeepMind[Google AI: Release Notes podcast episode on long context](https://blog.google/technology/google-deepmind/release-notes-podcast-long-context)
   The "Release Notes Podcast: Long Context and RAG" episode by Google Deepmind dives deep into scaling context windows and improving long-context models. Hosted by Logan Kilpatrick, Google DeepMind’s Nikolay Savinov explores key challenges and advancements in this area, with a focus on Retrieval-Augmented Generation (RAG) and long context models.  
   You will learn:
 	- Why token count matters and how models handle multi-million-token inputs  
@@ -736,7 +736,7 @@ Build DeepSeek from Scratch
 
 ## 14.05.2025
 
-- Sakana AI unveiled [Continuous Thought Machines (CTMs)]([Continuous Thought Machines](https://pub.sakana.ai/ctm/)), a new type of model that makes AI more brain-like by allowing it to “think” step-by-step over time instead of making instant decisions like current AI systems do.
+- Sakana AI unveiled Continuous Thought Machines (CTMs)[Continuous Thought Machines](https://pub.sakana.ai/ctm/), a new type of model that makes AI more brain-like by allowing it to “think” step-by-step over time instead of making instant decisions like current AI systems do.
 
 	**Example code:** [continuous-thought-machines/examples/01_mnist.ipynb at main · SakanaAI/continuous-thought-machines](https://github.com/SakanaAI/continuous-thought-machines/blob/main/examples/01_mnist.ipynb)
 ### 1. **Internal Recurrence (aka "Thought Steps")**
