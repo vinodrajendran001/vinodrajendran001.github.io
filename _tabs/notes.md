@@ -440,7 +440,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 	```Quote
 	MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
 	```
-	- [https://blog.dailydoseofds.com/p/visual-guide-to-model-context-protocol](Visual Guide to Model Context Protocol (MCP))
+	- [Visual Guide to Model Context Protocol (MCP)](https://blog.dailydoseofds.com/p/visual-guide-to-model-context-protocol)
 	![](/assets/img/notes/Pasted image 20250409095957.png)
 - [microsoft/playwright-mcp: Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp?tab=readme-ov-file) is a Model Context Protocol (MCP) server that enables large language models to interact with web pages using Playwright, bypassing the need for screenshots or visually-tuned models.
 
@@ -726,7 +726,7 @@ Build DeepSeek from Scratch
 
 ## 13.05.2025
 
-- [ZeroSearch: Incentivize the Search Capability of LLMs without Searching]([Alibaba-NLP/ZeroSearch: ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-nlp/ZeroSearch))
+- ZeroSearch: Incentivize the Search Capability of LLMs without Searching[Alibaba-NLP/ZeroSearch: ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-nlp/ZeroSearch)
 	- We propose ZeroSearch, a novel reinforcement learning framework that incentivizes the capability of LLMs to use a real search engine with simulated searches during training.
 	- Through supervised fine-tuning, we transform the LLM into a retrieval module capable of generating both relevant and noisy documents in response to a query. We further introduce a curriculum rollout mechanism to progressively elicit the model’s reasoning ability by exposing it to increasingly challenging retrieval scenarios.
 	- We conduct extensive experiments on both in-domain and out-of-domain datasets. Results show that ZeroSearch outperforms real search engine-based models while incurring zero API cost. Moreover, it generalizes well across both base and instruction-tuned LLMs of various sizes and supports different reinforcement learning algorithms.
@@ -815,4 +815,4 @@ Repeat this T times.
 
 ## 15.05.2025
 
-- As large language models (LLMs) become more deeply embedded in applications, ensuring their safe and secure operation is critical. Meta's [**LlamaFirewall**]([PurpleLlama/LlamaFirewall at main · meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)) is an open-source guardrail framework designed to serve as a final layer of defense against various security risks that come with deploying AI agents. It addresses challenges such as prompt injection, agent misalignment, and unsafe code generation, providing developers with the necessary tools to build robust and secure AI systems.
+- As large language models (LLMs) become more deeply embedded in applications, ensuring their safe and secure operation is critical. Meta's **LlamaFirewall** [PurpleLlama/LlamaFirewall at main · meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)is an open-source guardrail framework designed to serve as a final layer of defense against various security risks that come with deploying AI agents. It addresses challenges such as prompt injection, agent misalignment, and unsafe code generation, providing developers with the necessary tools to build robust and secure AI systems.
