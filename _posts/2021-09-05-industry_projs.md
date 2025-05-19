@@ -11,33 +11,17 @@ Rail systems are complex and comprise thousands of different interrelated elemen
 
 Events are being sent by sensors monitoring subsystems of diverse nature: passenger safety, lights, doors, etc. Many obstacles are to be considered and confronted, namely the rarity and redundancy of events (as shown in Fig 1). I had access to 5 years of past work order data which includes details like incident data & time, corrective action description. Similary 5 years of corresponding alarm codes data were also available. 
 
-
-
-<img width="400" height="150" src="assets/img/industry_proj/alarm_seq.png">
-<br>
-<em>Fig 1: Illustration of two types of events
-</em>
+![Illustration of two types of events](/assets/img/industry_proj/alarm_seq.png){: w="400" h="150"} *Illustration of two types of events*
 
 I formulated the problem as a sequence classifier to recommend the problem, cause and remedy code for the given sequence of alarms. In this way, we not only consider the last alarm code as a reference for troubleshooting instead we consider sequence of alarms to cater the rarity and redundancy of events. 
 
 There were some data gap issues in particular the missing information of problem, cause and remedy codes in the work order data. As a work around, I applied a rule based NLP method (keyword matching) on the corrective action description to extract the relevant problem, cause and remedy codes for each work order. In total there were around 100 problem, cause and remedy code unique combinations. For sequence preparation, the alarm codes which are present within the window of 10 min from fault date & time are extracted. 
 
-
-
-<img width="500" height="300" src="assets/img/industry_proj/data_processing.png">
-<br>
-<em>Fig 2: Data transformation stages for sequence classification
-</em>
-
+![Data transformation stages for sequence classification](/assets/img/industry_proj/data_processing.png){: w="500" h="300"} *Data transformation stages for sequence classification*
 
 Once the data transformation step is completed, the final dataset contains the alarm sequences and the corresponding problem-cause-remedy code for each work order. For the transformer based sequence classifier, the instances are alarm codes, tokenized into sequences of codes, and the classification labels are problem-cause-remedy code. The heart of the architecture is a large chain of transformer blocks. That is, the block applies, in sequence: a self attention layer, layer normalization, a feed forward layer (a single MLP applied independently to each vector), and another layer normalization. Residual connections are added around both, before the normalization. The output sequence is averaged to produce a single vector representing the whole sequence. This vector is projected down to a vector with one element per class and softmaxed to produce probabilities. 
 
-
-<img width="600" height="250" src="assets/img/industry_proj/transformers_arch.png">
-<br>
-<em>Fig 3: Transformers architecture for problem, cause and remedy recommendation
-</em>
-
+![Transformers architecture for problem, cause and remedy recommendation](/assets/img/industry_proj/transformers_arch.png){: w="600" h="250"} *Transformers architecture for problem, cause and remedy recommendation*
 
 This piece of work has helped to save 30% of the rail maintenance time by accurate recommendations. Technicians now no longer have to travel to an asset in a far-flung location just to assess or troubleshoot problems, and sometimes they can even recommend a fix from afar. This tool can be built-in with events from power, communications, tracks, etc. to identify and rectify faults from external factors like track foundation movement, CBTC ,etc.
  
@@ -46,11 +30,7 @@ This piece of work has helped to save 30% of the rail maintenance time by accura
 Tip clearance is the distance between tip of rotating airfoil and stationary part. Such clearances introduces aerodynamic losses, decreasing gas turbine efficiency and degradation of blade tips.
 
 
-<img width="400" height="150" src="assets/img/industry_proj/tipclearance_def.PNG">
-<br>
-<em>Fig 1: Tip clearance on turbine blade (left) Schematic of the leakage flow in turbines (right)[1]
-</em>
-
+![turbine blade](/assets/img/industry_proj/tipclearance_def.PNG){: w="400" h="150"} *Tip clearance on turbine blade (left) Schematic of the leakage flow in turbines (right)[1]*
 
 During the design stage, the effect of tip clearance is measured by running lot of computer modelling and simulations. To impose design exploration at pace, lot of physics-based reduced order model were introduced. However, it involves lot of manual calibrations and requires substantial knowledge to get it work. 
 
@@ -67,12 +47,7 @@ This innovative and creative work has helped to achieve the following
 
 Manufacturing of aeroengine fan blade involves lot of process. As one of the inspection process, the blades are X-rayed to identify defects. The inspections are manual and require several levels of scrutiny. One of the risk in manual process is that it can lead to potentially different standards of X-ray image analysis and sentencing being accepted.
 
-
-<img width="400" height="200" src="assets/img/industry_proj/adr_def.png">
-<br>
-<em>Fig 2: Internal structure of aeroengine fan blade.[2]
-</em>
-
+![fan blade](/assets/img/industry_proj/adr_def.png){: w="400" h="200"} *Internal structure of aeroengine fan blade[2]*
 
 I developed an Automated Defect Recognition (ADR) system equivalent to human information processing stage. I researched and formulated the defect identification problem as anomaly detection using GAN to address the following challenges in the current process (1) a smaller number of examples for each defect class, (2) disorganized defect logging process, and (3) prone to new defects. It builds upon by learning the normalcy of the images from the good images, reuse them to identify and locate the defects in a new X-ray image.  In this way, we can quantify goodness and use that to identify any defect. 
 
@@ -82,11 +57,7 @@ This piece of work has helped to save 10% cost of the overall inspection process
 
 Jet engines are made up of almost 25,000 parts. Most of the parts are stamped with serial numbers to avoid mistakes in the production line and supply chain. In turbine blade corrosion level inspection process, the serial numbers are recorded to keep track of it. Each blade has a serial number and also it is engraved in the form of 2D data matrix. 
 
-
-<img width="400" height="200" src="assets/img/industry_proj/turbine_def.jpg">
-<br>
-<em>Fig 3: Turbine blade with 2D data matrix code and serial number.[4]
-</em>
+![turbine](/assets/img/industry_proj/turbine_def.jpg){: w="400" h="200"} *Turbine blade with 2D data matrix code and serial number[4]*
 
 The challenge here is that the blades after serving the engine, has lot of scratches and dirt on the surface which makes difficult to decode. I developed an OCR system to read the serial number from the given turbine blade images. It involves image collection, building dataset, image annotation, image augmentation, training the network and algorithm evaluation.
 
@@ -103,12 +74,7 @@ It has been succefully deployed in the factory which in turn improved the produc
 
 Mechanical erosion like pitting, cracking, and burning is the main form of damage to engine compressor and turbine sections, with corrosion usually reserved for the parts of the airplane in closest contact to the atmosphere. But there is one form of corrosion that exists in the blistering environment of a turbine engine hot section,and it is called sulfidation. 
 
-
-<img width="300" height="400" src="assets/img/industry_proj/turbine_corrosion.png">
-<br>
-<em>Fig 4: Deterioration of turbine blades caused by sulfidation.[4]
-</em>
-
+![turbine blades caused by sulfidation](/assets/img/industry_proj/turbine_corrosion.png){: w="300" h="400"} *Deterioration of turbine blades caused by sulfidation[4]*
 
 It falls to the service technician and inspector to collect and analyze the blade and physical evidence to determine the true condition and effect of protective coatings. Human inspectors manually rank the corrosion condition into different levels which is subjective due to un-controlled lighting and human error. 
 
@@ -120,12 +86,7 @@ This work has drastically reduced the process duration from 1 week to 1 day per 
 
 The formation of vortices in the surrounding fluid is used as one of the indicators for measuring the efficiency of aerodynamic system designs. Automated vortex detection methods are needed to facilitate the exploration of large scale turbulent fluid flow simulations. The local methods often use the notion of swirling fluid motion to identify the vortex and it is successful to some extent. However, this kind of methods requires informations such as location, orientation, direction, etc. As a consequence, it increases the computational time.
 
-
-<img width="500" height="250" src="assets/img/industry_proj/vortex_def.gif">
-<br>
-<em>Fig 5: Vortex shedding behind a circular cylinder.[5]
-</em>
-
+![vortex](/assets/img/industry_proj/vortex_def.gif){: w="500" h="250"} *Vortex shedding behind a circular cylinder[5]*
 
 I formulated the vortex detection problem as a binary classification task. The underlying idea is to identify the vortex for any given CFD mesh point by just using the raw simulation properties. In this piece of work, I focused on four areas namely feature selection, feature extraction, handling imbalance data and algorithm selection. I came up with a vortex prediction model using recurrent neural network (RNN). As a result, it could able to predict vortices with 95% accuracy. More details can be found in [6]. 
 
