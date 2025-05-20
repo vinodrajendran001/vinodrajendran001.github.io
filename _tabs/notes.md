@@ -816,3 +816,7 @@ Repeat this T times.
 ## 15.05.2025
 
 - As large language models (LLMs) become more deeply embedded in applications, ensuring their safe and secure operation is critical. Meta's **LlamaFirewall** [PurpleLlama/LlamaFirewall at main · meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/LlamaFirewall)is an open-source guardrail framework designed to serve as a final layer of defense against various security risks that come with deploying AI agents. It addresses challenges such as prompt injection, agent misalignment, and unsafe code generation, providing developers with the necessary tools to build robust and secure AI systems.
+
+## 20.05.2025
+
+- [Master Model Context Protocol (MCP) with this free course]([Welcome to the 🤗 Model Context Protocol (MCP) Course - Hugging Face MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction)). Learn MCP architecture, SDKs, and end-to-end application building. Gain hands-on experience with real-world use cases, community projects, and partner tools. Earn a certificate by completing assignments and join the active community for ongoing support.
