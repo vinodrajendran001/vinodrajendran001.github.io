@@ -13,7 +13,7 @@ My expertise spans **deep learning**, **generative models**, **computer vision**
 
 Currently, I work as a **Generative AI Expert** at **Continental Automotive** in Singapore, where I explore exciting areas such as **neural rendering**, **personalization**, **conversational AI**, and **multimodal understanding and generation** — all tailored for next-generation automotive applications.
 
-> 📢 **Announcement:** I've recently developed an interest in **mechanistic interpretability**. You can expect lots of upcoming posts related to that!
+> 📢 **Announcement:** I've recently developing an interest in **mechanistic interpretability**. You can expect lots of upcoming posts related to that!
 
 
 ## 📚 Education
