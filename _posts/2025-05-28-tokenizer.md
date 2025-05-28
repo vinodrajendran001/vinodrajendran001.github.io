@@ -447,7 +447,7 @@ The vocabulary built contains:
  'z'}
 ```
 
-## Encoding New Text
+### Encoding New Text
 
 Once we have our trained BPE model, we can use it to encode new text by applying the same sequence of merges we learned during training.
 
@@ -641,7 +641,7 @@ GPT-2 breaks numbers into chunks that appear frequently in training data. For in
 - Note: Transformers process token sequences as their primary input, with vectors serving as learned representations
 
 
-# References
+## References
 
 1. [What is a Transformer? (Transformer Walkthrough Part 1/2)](https://www.youtube.com/watch?v=bOYE6E8JrtU)
 2. [dqbd/tiktokenizer: Online playground for OpenAPI tokenizers](https://github.com/dqbd/tiktokenizer))
