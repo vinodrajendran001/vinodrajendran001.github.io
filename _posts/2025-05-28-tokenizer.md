@@ -644,4 +644,4 @@ GPT-2 breaks numbers into chunks that appear frequently in training data. For in
 ## References
 
 1. [What is a Transformer? (Transformer Walkthrough Part 1/2)](https://www.youtube.com/watch?v=bOYE6E8JrtU)
-2. [dqbd/tiktokenizer: Online playground for OpenAPI tokenizers](https://github.com/dqbd/tiktokenizer))
+2. [dqbd/tiktokenizer: Online playground for OpenAPI tokenizers](https://github.com/dqbd/tiktokenizer)
