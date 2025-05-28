@@ -1,5 +1,5 @@
 ---
-title: Understanding Byte-Pair Encoding (BPE): From Language to Tokens
+title: Understanding Byte-Pair Encoding (BPE) - From Language to Tokens
 date: 2025-05-28 21:41:00 +0800
 categories: [Mechanistic Interpretability, Prereqs]
 tags: [tokenizer, BPE]     # TAG names should always be lowercase
