@@ -843,3 +843,35 @@ Repeat this T times.
 - **UniVG-R1** reinforces visual grounding with CoT and difficulty-aware reinforcement learning, achieving top scores on multiple video/image grounding tasks → [read the paper](https://link.mail.beehiiv.com/ss/c/u001.24PJKv5ZY5jFY09zxUFvCeT_AGjxQa6bD3cNDicyXK0XoIjC26TbNLbri2CPclmMuaqzwIdycGmSJgFDZsiyPo6DQamEV6NUyS1mRxnETLndYFApBFnsS3TCghhs9zMPcbdaI-zrbXf94XkuhWNz7P7ORgCvMgL_Qa7nXioZcJ7TqqoQ1y1nsx9x24_7OMHFqgd5ciEYpKx8k9TUv8PU3rDsEvIumBHxsW-AttijKnGjzEKfv7sEhVr8vo-z9ISVHSbaRFd3nng9LJnttIbyEw/4gu/S3TZHJPrRHyiKLYBVVpQFw/h40/h001.ObUvOhojS_yYRo-a4R302_YDnX8RowlErTXbD88NZ6w "https://link.mail.beehiiv.com/ss/c/u001.24PJKv5ZY5jFY09zxUFvCeT_AGjxQa6bD3cNDicyXK0XoIjC26TbNLbri2CPclmMuaqzwIdycGmSJgFDZsiyPo6DQamEV6NUyS1mRxnETLndYFApBFnsS3TCghhs9zMPcbdaI-zrbXf94XkuhWNz7P7ORgCvMgL_Qa7nXioZcJ7TqqoQ1y1nsx9x24_7OMHFqgd5ciEYpKx8k9TUv8PU3rDsEvIumBHxsW-AttijKnGjzEKfv7sEhVr8vo-z9ISVHSbaRFd3nng9LJnttIbyEw/4gu/S3TZHJPrRHyiKLYBVVpQFw/h40/h001.ObUvOhojS_yYRo-a4R302_YDnX8RowlErTXbD88NZ6w").
 - **Web-Shepherd** introduces a step-level reward model for web navigation, significantly improving trajectory evaluation accuracy and cost-efficiency → [read the paper](https://link.mail.beehiiv.com/ss/c/u001.24PJKv5ZY5jFY09zxUFvCeT_AGjxQa6bD3cNDicyXK2L5Jv_fr3BCDOhTBPwk1QtsBo7QsyG4cV5KCN8ksfluMwgRSQ2i9usXf0fsttFk9RCXWx6EX_tu6Yjr6Tjc1Y9df7P2N3LR0VmBvk_M6EWK0tYEaQqq-_ZYirShGKbsa4Bcr42M5U6BWMaafKxi_Ax634f2L7BhcGQf7sWahQAmU2BEn83grcbAsADrrLPmxsMVxofltvT_tbQWAmM4zHDRXFP95_y1Aw3NyqY4Wl4iQ/4gu/S3TZHJPrRHyiKLYBVVpQFw/h41/h001.UexzpDw2g3DTK1pRApuzytPNd1SUD0Vc2g5_ycuxvV0 "https://link.mail.beehiiv.com/ss/c/u001.24PJKv5ZY5jFY09zxUFvCeT_AGjxQa6bD3cNDicyXK2L5Jv_fr3BCDOhTBPwk1QtsBo7QsyG4cV5KCN8ksfluMwgRSQ2i9usXf0fsttFk9RCXWx6EX_tu6Yjr6Tjc1Y9df7P2N3LR0VmBvk_M6EWK0tYEaQqq-_ZYirShGKbsa4Bcr42M5U6BWMaafKxi_Ax634f2L7BhcGQf7sWahQAmU2BEn83grcbAsADrrLPmxsMVxofltvT_tbQWAmM4zHDRXFP95_y1Aw3NyqY4Wl4iQ/4gu/S3TZHJPrRHyiKLYBVVpQFw/h41/h001.UexzpDw2g3DTK1pRApuzytPNd1SUD0Vc2g5_ycuxvV0")
 - **Toto** by Datadog a decoder-only foundation model with 151 million parameters for time series forecasting using observability metrics → [read the paper](https://link.mail.beehiiv.com/ss/c/u001.24PJKv5ZY5jFY09zxUFvCeT_AGjxQa6bD3cNDicyXK3XBDYR8BWyhS2V04LjqemC-mFZGgQcpcEfFcELUrpa3yKGW-bnkCt32g0fFdg-_dpk6HlDv20Th15ufbKyHBhqcqLfL26PzqPJeYosZM3c4AN1oZ4VctiGCMbXh0wBZaskMTRpd4vjWKof38ncA5jS0PcWIufCKjKi0i7lhfOHL-614TLpTs8-Y1j60AXtsvnY9MD8Yvlgm4pRSl7Zr42KkYJcrLOpBJHWmphhtL39zw/4gu/S3TZHJPrRHyiKLYBVVpQFw/h42/h001.PGO5UWY4kjxQ4f6b2CT9_tEsRYSuq9k9IYtEmjAlhr4 "https://link.mail.beehiiv.com/ss/c/u001.24PJKv5ZY5jFY09zxUFvCeT_AGjxQa6bD3cNDicyXK3XBDYR8BWyhS2V04LjqemC-mFZGgQcpcEfFcELUrpa3yKGW-bnkCt32g0fFdg-_dpk6HlDv20Th15ufbKyHBhqcqLfL26PzqPJeYosZM3c4AN1oZ4VctiGCMbXh0wBZaskMTRpd4vjWKof38ncA5jS0PcWIufCKjKi0i7lhfOHL-614TLpTs8-Y1j60AXtsvnY9MD8Yvlgm4pRSl7Zr42KkYJcrLOpBJHWmphhtL39zw/4gu/S3TZHJPrRHyiKLYBVVpQFw/h42/h001.PGO5UWY4kjxQ4f6b2CT9_tEsRYSuq9k9IYtEmjAlhr4")
+
+## 29.05.2025
+
+- **How to build almost ANY LiDAR Object Detector!**
+  And it's about building detector frameworks, rather than detector algorithms.
+  
+  **Take for example, VoxelNet.**  
+  This pioneer approach comes directly from Apple's Project Titan Lab, and most of the algorithms you see today come partly from this one.
+  
+  **How does VoxelNet work?** it "voxelizes" the point cloud (transforms the points into minecraft voxels), and then uses 3D Convolutional Neural Networks to learn the features and process them.
+  
+  But __this approach is slow__.
+  
+  And this is when, in 2018, Holger Caesar and his team of researchers invented another algorithm: Point Pillars.
+  
+  This approach makes VoxelNet real-time.
+  
+  How?
+  
+  By converting the 3D problem (3D Voxels, 3D CNNs, etc...), into a 2D problem (2D Pillars, 2D CNNs, ...). Like a miracle, the pillar technique worked and made the algorithm real-time.
+  
+  But one question remains...  
+  **How do you learn something as wide as 3D Deep Learning?**
+  
+  Things like **Voxelization** (VFE) and **3D CNNs** (3D Backbones) used in VoxelNet, but also 2D Transformations (used in PointPillars), or **PointNets** (PFE), and others..
+  
+  **The truth is that the field was essentially using and re-using the same 11 Blocks over and over again.**   
+  And that using these 11 blocks, you could build almost ANY architecture!
+  
+  ![](/assets/img/notes/1e3f1e2a-26aa-4e88-968b-fc5127480706.gif)
+  
+  Almost every algorithm you will see use a combination of these 11 blocks. Whether it's VoxelNet, PointPillars, SECOND, or more recent ones.
