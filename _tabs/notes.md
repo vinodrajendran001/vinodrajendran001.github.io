@@ -880,3 +880,12 @@ Repeat this T times.
 
 - [How to use LLMs better](https://learnhowtolearn.org/wiki/how-to-use-llms-better/)
 - [Anthropic open-sources its circuit tracing tools](https://github.com/safety-research/circuit-tracer) to reveal how LLMs make decisions.
+
+## 05.06.2025
+
+- [RLHF 101: A Technical Tutorial on Reinforcement Learning from Human Feedback – Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu/2025/06/01/rlhf-101-a-technical-tutorial-on-reinforcement-learning-from-human-feedback/)
+
+## 11.06.2025
+
+- [Why DeepSeek models](https://x.com/svpino/status/1909231443751944700) are good at reasoning
+- [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) An open-source video generation tool that generates cinematic videos. Supports script-to-video, lip-sync, music, LoRA effects, and storyboards. Runs locally and doesn’t enforce any length restrictions.
