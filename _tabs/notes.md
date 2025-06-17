@@ -889,3 +889,8 @@ Repeat this T times.
 
 - [Why DeepSeek models](https://x.com/svpino/status/1909231443751944700) are good at reasoning
 - [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) An open-source video generation tool that generates cinematic videos. Supports script-to-video, lip-sync, music, LoRA effects, and storyboards. Runs locally and doesn’t enforce any length restrictions.
+
+## 17.06.2025
+
+- [Local Deep Researcher](https://github.com/langchain-ai/local-deep-researcher) This walkthrough shows how to run DeepSeek-R1 locally using Ollama, load its 14B distilled model, and test JSON-mode outputs. You’ll build a self-contained research agent that performs web search, summarization, and iterative reflection.
+- [How to Choose Large Language Models: A Developer’s Guide to LLMs](https://www.youtube.com/watch?v=pYax2rupKEY) Learn how to evaluate LLMs using real-world benchmarks, open-source leaderboards, and your own data. This guide compares proprietary and open models, shows how to run Granite with Ollama, and walks through RAG setups.
