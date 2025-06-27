@@ -899,3 +899,11 @@ Repeat this T times.
 
 - [TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework](https://github.com/tauricresearch/tradingagents)
 - [comet-ml/opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.](https://github.com/comet-ml/opik)
+
+## 25.06.2025
+
+- [Basic facts about GPUs | Damek Davis’ Website](https://damek.github.io/random/basic-facts-about-gpus/)This article discusses how GPUs work, covering topics like compute and memory hierarchy, performance regimes, strategies for increasing performance, and more.
+
+## 27.06.2025
+
+- [patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
