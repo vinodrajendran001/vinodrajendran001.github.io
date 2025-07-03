@@ -24,3 +24,7 @@ order: 4
 ## 5. Retentive Network (RetNet)
 
 [![retnet](/assets/img/talks/retnet.png)](https://docs.google.com/presentation/d/1Mf9QrIL4qbHlPJpWRhwpdXGFIftHTIsz6xPOKpJJY9M/edit?usp=sharing){: w="600" h="250"}
+
+## 6. Tracing the Thoughts of an LLM
+
+[![tracing-thoughts-llm](/assets/img/talks/tracing_thoughts_llm.jpeg)](https://vinodrajendran001.github.io/All_You_Need_Is_AI/Tracing_Thoughts_LLM){: w="600" h="250"}
