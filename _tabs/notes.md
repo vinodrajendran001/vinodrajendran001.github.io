@@ -907,3 +907,12 @@ Repeat this T times.
 ## 27.06.2025
 
 - [patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+
+## 30.06.2025
+
+- [Reward Models - by Cameron R. Wolfe, Ph.D.](https://cameronrwolfe.substack.com/p/reward-models) In-depth explanation of **Reward Models**
+
+## 04.07.2025
+
+- https://github.com/SakanaAI/treequest - A flexible answer tree search library featuring **AB-MCTS**, useful for (but not limited to) LLM inference-time scaling.
+- https://www.dyad.sh/ - Free, local, open-source alternative to Lovable / v0 / Bolt.
