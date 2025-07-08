@@ -42,11 +42,11 @@ order: 5
 	- [Watch video](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=3)
 	- [Github](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
-![](/assets/img/notes/Pasted image 20250312133027.png)
+![](/assets/img/notes/Pasted%20image%2020250312133027.png)
 
 ## 13.03.2025
 
-![](/assets/img/notes/Pasted image 20250313230642.png)
+![](/assets/img/notes/Pasted%20image%2020250313230642.png)
 
 
 I’ve gathered valuable insights that have helped me succeed in solving complex problems during coding interviews. Here’s what I’ve learned:
@@ -290,7 +290,7 @@ This is platooning, a leader — and followers.
 
 And it works like this:
 
-![](/assets/img/notes/Pasted image 20250314090914.png)
+![](/assets/img/notes/Pasted%20image%2020250314090914.png)
 
 The problem is, it never really worked.  
 It can work from a "prototype" perspective, but (to my knowledge) I don't think the autonomous truck world ever adopted platooning as a solution.
@@ -313,7 +313,7 @@ And what is it? It's a better middleware for ROS.
 
 To explain why Zenoh is a good idea, let me share a simple graph decomposing ROS into 4 main parts: Nodes, Tools, Robotics, and Ecosystem.
 
-![](/assets/img/notes/Pasted image 20250314090710.png)
+![](/assets/img/notes/Pasted%20image%2020250314090710.png)
 
 According to this:
 
@@ -392,7 +392,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 	Agentic RAG is particularly useful in scenarios requiring thorough and nuanced information processing and decision-making.  
 	  
 	A few days ago, I discussed how the future of AI lies in AI Agents. RAG is currently the most popular use case, and with an agentic architecture, you will supercharge RAG!
-	![](/assets/img/notes/Pasted image 20250324192032.png)
+	![](/assets/img/notes/Pasted%20image%2020250324192032.png)
 
 ## 25.03.2025
 
@@ -426,7 +426,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 	- Agentic Memory for LLM Agents
 - [GenAI-Showcase/notebooks/agents at main · mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase/tree/main/notebooks/agents) - Jupyter Notebooks demonstrating how to build AI agents using various frameworks and MongoDB Atlas as the vector store and memory provider.
 - Which Agentic Framework should I use?
-![](/assets/img/notes/Pasted image 20250325113120.png)
+![](/assets/img/notes/Pasted%20image%2020250325113120.png)
 
 ## 27.03.2025
 
@@ -441,7 +441,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 	MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
 	```
 	- [Visual Guide to Model Context Protocol (MCP)](https://blog.dailydoseofds.com/p/visual-guide-to-model-context-protocol)
-	![](/assets/img/notes/Pasted image 20250409095957.png)
+	![](/assets/img/notes/Pasted%20image%2020250409095957.png)
 - [microsoft/playwright-mcp: Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp?tab=readme-ov-file) is a Model Context Protocol (MCP) server that enables large language models to interact with web pages using Playwright, bypassing the need for screenshots or visually-tuned models.
 
 ## 30.03.2025
@@ -459,7 +459,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 		1. One part of Claude’s brain carefully counts the ones place (like knowing 6+9=15, so the answer ends in 5).
 		2. While another roughly estimates the total (like “that's around 90-something”).
 	4. forms [multi-hop reasoning](https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtUTCunQDlTDJnWZQtYYHujvlSi094Ya1OX4Cz2m6pIZFrxwrjYIzqBfG5gyKQ0BeNuK27cpvY6O2nOGeQk6CP09YJVuC3-5MuQ5DDpKrVcac0X_KfCAdShZnQDWyni3H8zoCWLwt7S6TpitdZ_PLNMn-Vkqbn-2sdKNgGCIG4fJFnnjeVDcs0tugC5zK-ZsRKFBmNEA7wfeSEffTFbsCyHlKKPlgOlj9_NE-fDDIWmQiRcKOAIGaHoz1RDdgeEXtEZn8gF6aZNxXKqliz-XKk7snYQxYG5y1h410AeQvltww27n2YDJS4qoDU7J_wy_g8mrBwlxyqeq8ri74NP1SduLvG0bkhwUEsLZTWAhnUwpMvNLdz6Y1IGuwdtUU-NBTFXplUzWXlKNtNIy2sDOcynXsycwGyPsZlYR39Fo3DnSt/4f8/HfnPeI7iQMiS7OQQ_N5TFg/h16/h001.-MakCsNsISmT-XKQvYywdV6pK0toRF5Hm-SC3YGxP1I "https://link.mail.beehiiv.com/ss/c/u001.26HABC69RFxgG0sCL9wUtUTCunQDlTDJnWZQtYYHujvlSi094Ya1OX4Cz2m6pIZFrxwrjYIzqBfG5gyKQ0BeNuK27cpvY6O2nOGeQk6CP09YJVuC3-5MuQ5DDpKrVcac0X_KfCAdShZnQDWyni3H8zoCWLwt7S6TpitdZ_PLNMn-Vkqbn-2sdKNgGCIG4fJFnnjeVDcs0tugC5zK-ZsRKFBmNEA7wfeSEffTFbsCyHlKKPlgOlj9_NE-fDDIWmQiRcKOAIGaHoz1RDdgeEXtEZn8gF6aZNxXKqliz-XKk7snYQxYG5y1h410AeQvltww27n2YDJS4qoDU7J_wy_g8mrBwlxyqeq8ri74NP1SduLvG0bkhwUEsLZTWAhnUwpMvNLdz6Y1IGuwdtUU-NBTFXplUzWXlKNtNIy2sDOcynXsycwGyPsZlYR39Fo3DnSt/4f8/HfnPeI7iQMiS7OQQ_N5TFg/h16/h001.-MakCsNsISmT-XKQvYywdV6pK0toRF5Hm-SC3YGxP1I") (connecting Dallas → Texas → Austin) “in its head.”
-     <!-- ![](/assets/img/notes/Pasted image 20250401113558.png) -->
+     <!-- ![](/assets/img/notes/Pasted%20image%2020250401113558.png) -->
      **They also found Claude** **sometimes tries to deceive its users when faced with conflicting goals:**
      - Claude maintains a “known entity” feature that represents whether it knows about a topic.
      - When Claude hallucinates, it's often because the “known entity” incorrectly activates on a topic it doesn’t fully understand (_same, bro)._
@@ -490,7 +490,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 		- Open-ended questions may have no single correct answer, making reference-based evals trickly. For example: What is the theme of this novel?  
 		- Questions should be representative of prod traffic, with a mix of factual, inferential, summarization, definitional questions.
 	4. Benchmark Datasets
-		![](/assets/img/notes/Pasted image 20250409093922.png)
+		![](/assets/img/notes/Pasted%20image%2020250409093922.png)
 
 ## 14.04.2025
 
@@ -505,7 +505,7 @@ And when you replace the default ROS protocol, you turn a wired robot into a wir
 
 - ### NVIDIA AI Frameworks
 
-![](/assets/img/notes/Pasted image 20250414234447.png)
+![](/assets/img/notes/Pasted%20image%2020250414234447.png)
 
  1️⃣ 𝗖𝗨𝗗𝗔  
 Parallel computing platform and API to accelerate computation on NVIDIA GPUs.  
@@ -669,7 +669,7 @@ These 7 GitHub repos are the ones I always recommend:
 	- **High-Quality Training**: Phi-4 Mini was trained on 1M synthetic math questions from DeepSeek R1. The larger models were trained on curated web content and OpenAI's o3-mini demos.
 	- **Big Context Window**: Supports 32K tokens by default and can be extended to 64K, making it well-suited for long documents such as legal cases, financial reports, or dense academic papers.
 - Amazon's NOVA premier is built to teach
-  ![](/assets/img/notes/Pasted image 20250505093614.png)
+  ![](/assets/img/notes/Pasted%20image%2020250505093614.png)
 
 
 ## 06.05.2025
@@ -702,7 +702,7 @@ These 7 GitHub repos are the ones I always recommend:
 - [Official inference framework for 1-bit LLMs](https://github.com/microsoft/bitnet)
 - [Olympus: A Universal Task Router for Computer Vision Tasks](https://github.com/yuanze-lin/Olympus)
 - [What Every AI Engineer Should Know About A2A, MCP & ACP | by Edwin Lisowski | Apr, 2025 | Medium](https://medium.com/@elisowski/what-every-ai-engineer-should-know-about-a2a-mcp-acp-8335a210a742)
-  ![](/assets/img/notes/Pasted image 20250508100420.png)
+  ![](/assets/img/notes/Pasted%20image%2020250508100420.png)
 - [Building News Agents for Daily News Recaps with MCP, Q, and tmux](https://eugeneyan.com/writing/news-agents/)
 
 
@@ -916,3 +916,23 @@ Repeat this T times.
 
 - https://github.com/SakanaAI/treequest - A flexible answer tree search library featuring **AB-MCTS**, useful for (but not limited to) LLM inference-time scaling.
 - https://www.dyad.sh/ - Free, local, open-source alternative to Lovable / v0 / Bolt.
+
+## 08.07.2025
+
+- A prompt that writes your Entire Business Plan in minutes.
+  ![](/assets/img/notes/Pasted%20image%2020250708084943.png)
+- Research that you need to know
+	- [ ] New Methods for Boosting Reasoning in Small and Large Models from Microsoft Research
+		- **rStar-Math**: Brings deep reasoning capabilities to small models (1.5B–7B parameters) using:
+    	    - Monte Carlo Tree Search (MCTS),
+		    - Process-level supervision via preference modeling,
+		    - Iterative self-improvement cycles.
+		- **Logic-RL** framework: Rewards the model only if both the reasoning process and the final answer are correct.
+		- **LIPS**: Blends symbolic reasoning with LLM capabilities (neural reasoning) for inequality proofs.
+		- **Chain-of-Reasoning (CoR)**: Unifies reasoning across natural language, code, and symbolic math, dynamically blending all three aspects for cross-domain generalization.
+	- [ ] **R3GAN**: It derives a regularized relativistic GAN loss that leads to stability and convergence, removing the need for heuristics and allowing the use of modern architectures
+	- [ ] **Transformers without Normalization**: Meta proposes **Dynamic Tanh (DyT)** – a super simple and efficient function that mimics how normalization works.
+		- DyT works just as well as normalization layers (or even better)
+		- It doesn't need extra calculations
+		- Requires less tuning
+		- Works for images, language, supervised learning, and even self-supervised learning
