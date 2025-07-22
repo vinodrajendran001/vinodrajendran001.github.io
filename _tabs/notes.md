@@ -948,3 +948,15 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 ## 17.07.2025
 
 - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/) One trick that helps developers write code faster and more accurately is to sketch proofs in your head when you're working on something difficult. Doing this without interrupting flow takes a lot of practice, but once you get good at it, you'll find a surprising amount of code will work on the first or second try. This article demonstrates a few examples of how this technique can be applied.
+
+## 18.07.2025
+
+- [How to Build Your Own AI Agent](https://www.theneuron.ai/explainer-articles/how-to-build-your-own-ai-agent-without-being-a-pro-coder)
+- [ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+- [googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.](https://github.com/googleapis/genai-toolbox)
+
+
+## 22.07.2025
+
+- https://gradientflow.substack.com/p/superposition-meets-productiona-guide - A DeepMind veteran on the future of AI and quantum
+- https://github.com/presenton/presenton - Open-Source AI Presentation Generator and API (Gamma Alternative)
