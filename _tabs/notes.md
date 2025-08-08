@@ -969,3 +969,14 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 ## 31.07.2025
 
 - [The Anatomy of a Modern LLM. A complete walkthrough of the… | by Damian Tran | Jul, 2025 | Medium](https://medium.com/@damianvtran/the-anatomy-of-a-modern-llm-0347afd72514)
+
+## 04.08.2025
+
+- [Coding Qwen3 From Scratch](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/11_qwen3) 
+- 16 Coding Patterns That Make Interviews Easy
+  ![](/assets/img/notes/Pasted%20image%2020250804095245.png)
+
+## 07.08.2025
+
+- [Sparsify transformers with SAEs and transcoders](https://github.com/EleutherAI/sparsify)
+- [An article that demystifies the fundamental concepts of reinforcement learning by illustrating them through relatable human experiences and everyday life scenarios.](https://yexijiang.substack.com/p/if-you-understand-life-youve-already)
