@@ -980,3 +980,8 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [Sparsify transformers with SAEs and transcoders](https://github.com/EleutherAI/sparsify)
 - [An article that demystifies the fundamental concepts of reinforcement learning by illustrating them through relatable human experiences and everyday life scenarios.](https://yexijiang.substack.com/p/if-you-understand-life-youve-already)
+
+## 13.08.2025
+
+- [My Top 10 Most Popular ChatGPT Prompts (2M+ Views, Real Data) : r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1kfzq6c/my_top_10_most_popular_chatgpt_prompts_2m_views/)
+- [NVIDIA Cosmos · GitHub](https://github.com/nvidia-cosmos)
