@@ -985,3 +985,9 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [My Top 10 Most Popular ChatGPT Prompts (2M+ Views, Real Data) : r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1kfzq6c/my_top_10_most_popular_chatgpt_prompts_2m_views/)
 - [NVIDIA Cosmos · GitHub](https://github.com/nvidia-cosmos)
+
+## 19.08.2025
+
+- [GitHub - Arindam200/awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
+- [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world)
+- [How LLMs See Images, Audio, and More](https://substack.com/home/post/p-170918672)
