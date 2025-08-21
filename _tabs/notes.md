@@ -991,3 +991,9 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 - [GitHub - Arindam200/awesome-ai-apps: A collection of projects showcasing RAG, agents, workflows, and other AI use cases](https://github.com/Arindam200/awesome-ai-apps)
 - [How LLMs See the World](https://blog.bytebytego.com/p/how-llms-see-the-world)
 - [How LLMs See Images, Audio, and More](https://substack.com/home/post/p-170918672)
+
+## 21.08.2025
+
+- [Vibe Coding Tips and Tricks](https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md)
+- [The Illustrated GPT-OSS](https://newsletter.languagemodels.co/p/the-illustrated-gpt-oss)
+- [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder)
