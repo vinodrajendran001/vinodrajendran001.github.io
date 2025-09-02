@@ -1002,3 +1002,7 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance.](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/tree/main)
 
+## 02.09.2025
+
+- [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- [Understanding LLMs: Insights from Mechanistic Interpretability](https://www.lesswrong.com/posts/XGHf7EY3CK4KorBpw/understanding-llms-insights-from-mechanistic)
