@@ -1015,3 +1015,8 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [Pytorch Tutorials](https://github.com/niconielsen32/pytorch-tutorials/tree/main)
 - [MyLLM: Building _My_ Meta_Bot — From Scratch, For Real](https://github.com/silvaxxx1/MyLLM)
+
+## 18.09.2025
+
+- [How Kimi K2 Achieves Efficient RL Parameter Updates](https://moonshotai.github.io/checkpoint-engine/)
+- [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
