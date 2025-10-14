@@ -1020,3 +1020,13 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [How Kimi K2 Achieves Efficient RL Parameter Updates](https://moonshotai.github.io/checkpoint-engine/)
 - [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
+## 29.09.2025
+
+- [Becoming a Research Engineer at a Big LLM Lab -- 18 Months of Strategic Career Development](https://www.maxmynter.com/pages/blog/jobhunt)
+- [AlmondGod/tinyworlds: A minimal implementation of DeepMind's Genie world model](https://github.com/AlmondGod/tinyworlds)
+- [Post-training 101](https://tokens-for-thoughts.notion.site/post-training-101)
+
+## 14.10.2025
+
+- [karpathy/nanochat: The best ChatGPT that $100 can buy.](https://github.com/karpathy/nanochat)
