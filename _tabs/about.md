@@ -11,9 +11,7 @@ I'm passionate about building impactful products that leverage cutting-edge tech
 
 My expertise spans **deep learning**, **generative models**, **computer vision**, and **natural language processing (NLP)**.
 
-Currently, I work as a **Generative AI Expert** at **Continental Automotive** in Singapore, where I explore exciting areas such as **neural rendering**, **personalization**, **conversational AI**, and **multimodal understanding and generation** — all tailored for next-generation automotive applications.
-
-> 📢 **Announcement:** Mechanistic interpretability is my latest fascination! I'll be diving deep into this topic in future posts.
+Currently, I work as a **Generative AI Expert** at **AUMOVIO** in Singapore, where I explore exciting areas such as **large language models (LLMs)**, **neural rendering**, **personalization**, **conversational AI**, and **multimodal understanding and generation** — all tailored for next-generation automotive applications.
 
 
 ## 📚 Education
@@ -30,7 +28,8 @@ Currently, I work as a **Generative AI Expert** at **Continental Automotive** in
 
 ## 💼 Experience
 
-### **Continental Automotive** (*present*)
+### **AUMOVIO** (*present*) 
+*formerly Continental Automotive* \
 📍 Singapore \
 **Generative AI Expert – Senior AI Specialist**
 
