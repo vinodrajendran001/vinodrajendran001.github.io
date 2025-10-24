@@ -18,7 +18,7 @@ Currently, I work as a **Generative AI Expert** at **Continental Automotive** in
 
 ## 📚 Education
 
-**Technische Universität München** \
+**Technische Universität München** (TUM) \
 📍 Munich, Germany \
 *Master of Science (M.Sc.) in Informatics*
 
