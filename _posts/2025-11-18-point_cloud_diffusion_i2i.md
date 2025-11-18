@@ -107,8 +107,6 @@ The pipeline was evaluated using five standard image quality metrics across all 
 </tr>
 </tbody></table>
 
-![](/assets/img/publications/i2i_results.png)
-
 ### Key Findings:
 
 - **Best Overall Performance**: Test Set 2 achieved the lowest FID score (24.73) and highest PSNR (27.05) and SSIM (0.85), likely due to similarity with training data distribution
@@ -117,6 +115,10 @@ The pipeline was evaluated using five standard image quality metrics across all 
 
 
 ## Qualitative Analysis and Model Behavior
+
+### Selected Visual Comparisons Across Three Test Sets
+
+![](/assets/img/publications/i2i_results.png)
 
 ### Strengths:
 
