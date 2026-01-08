@@ -1052,3 +1052,8 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 ## 18.11.2025
 
 - [How Grab Built an AI Foundation Model To Understand Customers Better](https://blog.bytebytego.com/p/how-grab-built-an-ai-foundation-model)
+
+## 08.01.2026
+
+- the simplest way to start "vibe coding" with no experience - https://x.com/resdegen/status/2008277182238343636
+- [Recursive Language Models: the paradigm of 2026](https://www.primeintellect.ai/blog/rlm)
