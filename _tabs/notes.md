@@ -1057,3 +1057,11 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - the simplest way to start "vibe coding" with no experience - https://x.com/resdegen/status/2008277182238343636
 - [Recursive Language Models: the paradigm of 2026](https://www.primeintellect.ai/blog/rlm)
+
+## 20.01.2026
+
+- How to code claude code in 200 lines of code - https://www.mihaileric.com/The-Emperor-Has-No-Clothes
+- [How I AI: Teresa Torres's Claude Code System for Task Management, Automated Research, and 'Lazy' Prompting | ChatPRD Blog](https://www.chatprd.ai/how-i-ai/teresa-torres-claude-code-obsdian-task-management)
+- [How to Automate Academic Research with Claude Code and Python Scripts | AI Workflows](https://www.chatprd.ai/how-i-ai/workflows/how-to-automate-academic-research-with-claude-code-and-python-scripts)
+- [How to Create a Granular Context Library for 'Lazy Prompting' with AI | AI Workflows](https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-granular-context-library-for-lazy-prompting-with-ai)
+- [How to Build a Personalized Task Manager with Claude Code and Markdown | AI Workflows](https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-personalized-task-manager-with-claude-code-and-markdown)
