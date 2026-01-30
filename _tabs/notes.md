@@ -1065,3 +1065,7 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 - [How to Automate Academic Research with Claude Code and Python Scripts | AI Workflows](https://www.chatprd.ai/how-i-ai/workflows/how-to-automate-academic-research-with-claude-code-and-python-scripts)
 - [How to Create a Granular Context Library for 'Lazy Prompting' with AI | AI Workflows](https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-granular-context-library-for-lazy-prompting-with-ai)
 - [How to Build a Personalized Task Manager with Claude Code and Markdown | AI Workflows](https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-personalized-task-manager-with-claude-code-and-markdown)
+
+## 30.01.2026
+
+- [How Clawdbot Remembers Everything](https://x.com/manthanguptaa/status/2015780646770323543?s=12)
