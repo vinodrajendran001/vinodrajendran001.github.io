@@ -1069,3 +1069,8 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 ## 30.01.2026
 
 - [How Clawdbot Remembers Everything](https://x.com/manthanguptaa/status/2015780646770323543?s=12)
+
+## 04.02.2026
+
+- [Lightweight, secure, and built to be understood and customized for your own needs inspired by Clawdbot](https://github.com/gavrielc/nanoclaw)
+- [Ultra-lightweight personal AI assistant inspired by Clawdbot](https://github.com/HKUDS/nanobot)
