@@ -1074,3 +1074,8 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [Lightweight, secure, and built to be understood and customized for your own needs inspired by Clawdbot](https://github.com/gavrielc/nanoclaw)
 - [Ultra-lightweight personal AI assistant inspired by Clawdbot](https://github.com/HKUDS/nanobot)
+
+## 09.03.2026
+
+- [OpenFang is an **open-source Agent Operating System**](https://github.com/RightNow-AI/openfang)
+
