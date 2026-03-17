@@ -1083,3 +1083,9 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.](https://github.com/msitarzewski/agency-agents/)
 - [Autoresearch](https://github.com/karpathy/autoresearch)
+
+## 16.03.2026
+
+- [Gen-Verse/OpenClaw-RL: OpenClaw-RL: Train any agent simply by talking](https://github.com/Gen-Verse/OpenClaw-RL)
+- [I want to learn how to use Claude Skills (full course)](https://x.com/hooeem/status/2031755971265974632)
+- [open-jarvis/OpenJarvis: Personal AI, On Personal Devices](https://github.com/open-jarvis/OpenJarvis)
