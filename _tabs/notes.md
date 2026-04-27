@@ -1112,3 +1112,9 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 - [Google Cloud just open-sourced a multi-agent orchestration framework. It lets Claude Code, Gemini CLI, and Codex all work on your codebase at the same time.](https://googlecloudplatform.github.io/scion/overview/)
 - [OpenClaw + Ollama + Gemma 4 26B for local agentic setup](https://x.com/googlegemma/status/2041512106269319328)
 - [**The self-improving AI agent built by Nous Research.** It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions.](https://github.com/nousresearch/hermes-agent)
+
+## 27.04.2026
+
+- [hugohe3/ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed](https://github.com/hugohe3/ppt-master)
+- [Make Gemma 4 solve Sudoku puzzles with Reinforcement Learning](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Gemma4_(E2B)_Reinforcement_Learning_Sudoku_Game.ipynb)
+  
