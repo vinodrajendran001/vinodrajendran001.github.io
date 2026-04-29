@@ -1117,4 +1117,11 @@ System Instructions You are ChatGPT, Head of Options Research at an elite quant 
 
 - [hugohe3/ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed](https://github.com/hugohe3/ppt-master)
 - [Make Gemma 4 solve Sudoku puzzles with Reinforcement Learning](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Gemma4_(E2B)_Reinforcement_Learning_Sudoku_Game.ipynb)
-  
+
+
+## 29.04.2026
+
+- [Requests for Startups | Y Combinator](https://www.ycombinator.com/rfs)
+- [Recursive Language Models, clearly explained](https://x.com/akshay_pachaar/status/2048757569775378858)
+- [Things I learned at OpenAI](https://semaphore.substack.com/p/things-i-learned-at-openai)
+- [nico-martin/gemma4-browser-extension: On-device AI agent Chrome extension powered by Transformers.js and Gemma 4](https://github.com/nico-martin/gemma4-browser-extension)
